@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0C0DE6182306F775002CFC84 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 0C0DE6172306F775002CFC84 /* main.c */; };
+		0C0DE6182306F775002CFC84 /* danlianbiao.c in Sources */ = {isa = PBXBuildFile; fileRef = 0C0DE6172306F775002CFC84 /* danlianbiao.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		0C0DE6142306F775002CFC84 /* lianbiao */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = lianbiao; sourceTree = BUILT_PRODUCTS_DIR; };
-		0C0DE6172306F775002CFC84 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		0C0DE6172306F775002CFC84 /* danlianbiao.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = danlianbiao.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		0C0DE6162306F775002CFC84 /* lianbiao */ = {
 			isa = PBXGroup;
 			children = (
-				0C0DE6172306F775002CFC84 /* main.c */,
+				0C0DE6172306F775002CFC84 /* danlianbiao.c */,
 			);
 			path = lianbiao;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C0DE6182306F775002CFC84 /* main.c in Sources */,
+				0C0DE6182306F775002CFC84 /* danlianbiao.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
